@@ -44,5 +44,6 @@ Al ejecutar el script, podrás elegir entre:
 ```
 4. Listo, a ser feliz
 
-### 🤔 Porque usarlo?
+## 🤔 Porque usarlo?
+
 Este script nació solamente porque necesitaba dividir y vencer. Para que te hagas una idea de su potencia: logró el procesamiento de 1,000,000+ de registros en ~2 segundos (o un segundito más, no tomé nota exacta la verdad xD)
