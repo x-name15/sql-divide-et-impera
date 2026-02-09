@@ -1,0 +1,6 @@
+{
+    "input_path": "C:\\Users\\felix.manrique\\Documents\\beca-proyectos\\MygraTorPosGres-script-mytopg\\fuente\\lve_erp_checks_production_db.sql",
+    "output_schema": "salida/esquema_final.sql",
+    "output_data": "salida/datos_final.sql",
+    "output_folder_tables": "salida/tablas_individuales/"
+}
